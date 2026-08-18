@@ -1,3 +1,5 @@
 ## Project Status
 
-Learning Git and SQL through this project.
+Swiggy Business Analytics Project
+<br>
+Author-Aman Verma
